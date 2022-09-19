@@ -1,4 +1,13 @@
-# Amazon_clone
+
+# Amazon Clone
 
 
-Para ver o projeto basta executar npm install tanto na pasta client como na server
+## Instalação
+
+Instale client e server com npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
