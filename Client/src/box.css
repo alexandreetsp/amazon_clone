@@ -1,0 +1,11 @@
+.seletion_box{
+    border: 1px solid red;
+    display: flex;
+}
+
+.Box_Container{
+    display: flex;
+    width: 300px;
+    border: 1px solid red;
+    color: black;
+}
